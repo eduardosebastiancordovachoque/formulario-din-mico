@@ -1,0 +1,68 @@
+.titulo 
+        {
+            margin-left: 10px;
+        }
+
+        body 
+        {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #28106e;
+        }
+
+        .form-container
+         {
+            border: 2px solid rgb(13, 5, 54);
+            border-radius: 10px;
+            padding: 20px;
+            background-color: #6256e0bd;
+            color: rgb(13, 5, 54);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            margin: 0 auto;
+        }
+
+        .campo 
+        {
+            margin-left: 10px;
+        }
+
+        .titulo 
+        {
+            margin-left: 10px;
+            font-size: 20px;
+        }
+
+        #nacio
+         {
+            margin-left: 10px;
+        }
+
+        input 
+        {
+            margin-left: 10px;
+        }
+
+        #lenguajes_programacion 
+        {
+            margin-left: 10px;
+        }
+
+        textarea {
+            margin-left: 10PX;
+        }
+
+       
+        details 
+        {
+            margin-bottom: 10px;
+        }
+
+       
+        summary 
+        {
+            cursor: pointer;
+            outline: none;
+        }
